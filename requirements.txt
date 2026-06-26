@@ -1,0 +1,11 @@
+torch
+torchvision
+sentence-transformers
+transformers
+numpy
+pandas
+scikit-learn
+python-docx
+streamlit
+tqdm
+joblib

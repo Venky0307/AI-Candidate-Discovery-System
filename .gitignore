@@ -1,0 +1,21 @@
+# Large dataset
+candidates.jsonl
+
+# Generated outputs
+output/
+
+# Large embedding files
+models/candidate_embeddings.npy
+models/embedding_cache.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
